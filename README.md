@@ -1,7 +1,7 @@
 # About
 
 This is the source code for my jekyll website hosted on github pages. 
-The website is available at [wassim-trabelsi.github.io](https://www.wassim-trabelsi.github.io).
+The website is available at [wassim-trabelsi.github.io](https://wassim-trabelsi.github.io).
 
 # Installation
 
