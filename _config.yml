@@ -4,7 +4,6 @@ description         : >-
                       :wave: Hi, Wassim here ! I'm a software engineer, data scientist, passionate about math and machine-learning.
 baseurl             : ""                                            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : "wassim-trabelsi/wassim-trabelsi.github.io"   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                                         # Opens external URLs in new tab (works for posts, projects and navbar only)
 github              : [metadata]
 
@@ -32,7 +31,7 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
   kaggle            : wath5up
-  linkedin          : your_username
+  linkedin          : wassim-trabelsi-3490aa11a
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
