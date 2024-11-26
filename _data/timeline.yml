@@ -1,17 +1,16 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: AI Engineer, IAdvize, France
+  from: 2024
+  to: prsent
+  description: - Developed and deployed cutting-edge AI solutions, including building, training, and evaluating AI systems mainly focused on e-commerce chatbots.
+               - Helped the company to improve its customer satisfaction by 10% by shifting from "It looks good" to metrics-driven eval approach.
+               - Introduced innovative features (multi-turn conversational recommendation systems), by staying at the forefront of state-of-the-art methodologies and adapting them to the e-commerce domain to maintain a competitive edge.
+              
+- title: Machine Learning Engineer, Direct Assurance, France
+  from: 2020
+  to: 2024
+  description:  - Developed, deployed, and industrialized an email classification and summarization ser-
+                vice using Pytorch. Built from scratch and deployed on production server with an MLOps methodo-
+                logy. 1.000 emails labeled per day, resulting in increased operational efficiency.
+                - Led the RPA initiative, driving it towards operational excellence by developing a Python library
+                for creating robust RPA resulting in significant time and cost savings.
+                - Designed and integrated pricing pipelines for premium computation.

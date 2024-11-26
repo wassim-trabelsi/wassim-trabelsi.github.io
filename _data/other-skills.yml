@@ -1,7 +1,7 @@
-- name: Adobe Photoshop
+- name: Read ML Papers
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Implement AI Papers
   percentage: 90
   color: success
